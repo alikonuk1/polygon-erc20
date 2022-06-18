@@ -30,4 +30,3 @@ npx hardhat run scripts/deploy.js --network mumbai
 npx hardhat verify <deployed_contracts_address> --contract contracts/ALI.sol:ALI --network mumbai
 ```
 
-For the detailed video; https://www.youtube.com/watch?v=zL1kDRlQbUI
